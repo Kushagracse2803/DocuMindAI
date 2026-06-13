@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Very Important!)
+venv/
+env/
+.env
+
+# ChromaDB (Vector database files)
+chroma_db/
+
+# API Keys & Secrets
+.env
+.secrets
+
+# Streamlit config (optional)
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

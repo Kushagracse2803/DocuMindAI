@@ -1,0 +1,24 @@
+# Core Frameworks
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+
+# Data Handling & Loaders
+pypdf
+beautifulsoup4
+youtube-transcript-api
+
+# Embeddings & Utilities
+sentence-transformers
+huggingface-hub
+python-dotenv
+chromadb
+
+# Monitoring & Evaluation (Essential for RAG)
+langsmith
+ragas
+
+langchain-groq
